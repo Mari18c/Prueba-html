@@ -7,4 +7,6 @@
 In the index, we can find our header along with the other redirects to the other views.
 We identify classes and a section with a short text.</p>
 <h2>Projects.html</h2>
-<p> </p>
+<p>Through the code called "projects.html" we can see screenshots of previous codes or projects already created. </p>
+<h2>Presentation.html</h2>
+<p></p>
