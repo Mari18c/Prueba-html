@@ -11,4 +11,10 @@ We identify classes and a section with a short text.</p>
 <h2>Presentation.html</h2>
 <p>We can see a short personal presentation accompanied by an image</p>
 <h2>Portfolio.html</h2>
-<p></p>
+<p>In the code called "portfolio.html" we can see some links and short descriptions about the project. The link to each of its repositories is shown.</p>
+<h2>Contact.html</h2>
+<p>Through the code called "contact.html," we can see a form with three fields to fill out, containing information such as the name, email address, and a message to be added by the person you wish to contact.</p>
+<h2>To finish</h2>
+<p>We can also see the compressed test file for better viewing of the images.
+
+Thank you all for your attention. I hope my page is useful.</p>
