@@ -6,3 +6,5 @@
 <p>First, let's look at the index.html code. This is the link to the main page or home page.
 In the index, we can find our header along with the other redirects to the other views.
 We identify classes and a section with a short text.</p>
+<h2>Projects.html</h2>
+<p> </p>
