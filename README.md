@@ -3,4 +3,6 @@
 <p>Although you should always follow the instructions according to what the client requests.</p>
 
 <h2>Index.html</h2>
-<p>First, let's look at the index.html code. This is the link to the main page or home page.</p>
+<p>First, let's look at the index.html code. This is the link to the main page or home page.
+In the index, we can find our header along with the other redirects to the other views.
+We identify classes and a section with a short text.</p>
