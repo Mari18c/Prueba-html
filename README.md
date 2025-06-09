@@ -9,4 +9,6 @@ We identify classes and a section with a short text.</p>
 <h2>Projects.html</h2>
 <p>Through the code called "projects.html" we can see screenshots of previous codes or projects already created. </p>
 <h2>Presentation.html</h2>
+<p>We can see a short personal presentation accompanied by an image</p>
+<h2>Portfolio.html</h2>
 <p></p>
